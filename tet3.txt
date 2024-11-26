@@ -1,1 +1,2 @@
-this is txt3.txt3
+#python
+a=int
